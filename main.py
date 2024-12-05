@@ -6,6 +6,13 @@ def calculate(a:int, b:int):
 print(calculate(5,4))
 
 
+class Employee:
+    def __init__(self,name,lastname,salary):
+        self.name = name
+        self.lastname = lastname
+        self.salary = salary
+
+
 
 
 
