@@ -13,6 +13,7 @@ class Employee:
         self.salary = salary
 
 
+print("salom dunyo")
 
 
 
